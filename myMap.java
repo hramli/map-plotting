@@ -3,8 +3,7 @@ import java.util.*;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-/* CS211, Winter Quarter 2018
- * 
+/*
  * Description for HashMap:
  * I created 2 options for the user. First is to display all the parks in Seattle on the map,
  * and the other is to display selected parks by entering the id.
