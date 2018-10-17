@@ -1,4 +1,3 @@
-// CS211, Winter Quarter 2018
 import java.util.Random; 
 import java.io.FileOutputStream;
 import java.io.IOException;
